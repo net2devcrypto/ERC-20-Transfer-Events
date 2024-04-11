@@ -1,7 +1,7 @@
 # ERC-20-Transfer-Events
 A function that returns transfer events from ERC-20 token smart contracts without the need of third party API. Straight from the blockchain!
 
-<img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/erc-20-events.png" width="950" height="510">
+<img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/erc-20-events.png" width="950" height="560">
 
 > [!NOTE]  
 > THE FILES ATTACHED TO THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
